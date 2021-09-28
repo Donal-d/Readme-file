@@ -1,3 +1,10 @@
+## Table of content
+* Student name 
+* Date of birth
+* Current location 
+* Day
+* Time in
+* Time out
 # My first read me table
 |Student name|Date of birth|current location|Day|Time in|Time out
 ---|---|---|---|---|---|
