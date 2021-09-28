@@ -2,4 +2,5 @@
 |Student name|Date of birth|current location|Day|Time in|Time out
 ---|---|---|---|---|---|
 Clinton salano| 2nd October 2000|Mathare|Monday|8.30a.m|4.20p.m
+Nielsen Mudaki|1st may 1998| Kabiria|Monday|8.00 a.m|4.10 p.m
 
